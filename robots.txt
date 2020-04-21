@@ -1,2 +1,3 @@
 User-agent: *
 Allow:/
+sitemap:https://compassionate-liskov-8f1e87.netlify.app/
